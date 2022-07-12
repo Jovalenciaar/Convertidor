@@ -43,3 +43,27 @@ elif opcion ==  3:
     conversor("Pesos argentinos", 2400000)    
 else:
     print("Ingresa una opcion correcta por favor")
+
+    -------------
+
+    def run():
+    LIMITE = 200
+
+    numero = int(input('Escribe un numero:'))
+    # numero = numero * 2
+    
+    # for numero in range(2000):
+    #     if numero % 2 !=0:
+    #         continue
+    #     print(numero)
+        
+    
+    while numero < LIMITE:
+        numero = numero * 2
+        if numero == 110:
+            break
+            print(numero)        
+    
+
+if __name__ == "__main__":
+    run()
