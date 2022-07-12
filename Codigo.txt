@@ -70,10 +70,10 @@ if __name__ == "__main__":
 ------
 
 # def run():
-#     contador = 1 
-#     print(contador)
-#     while contador < 10:
-#         contador +=1 # contador = contador + 1 
+#     X = 1 
+#     print(X)
+#     while X < 10:
+#         contador +=1 # X = contador + 1 
 #         print(contador)
 
 # if __name__ == "__main__":
